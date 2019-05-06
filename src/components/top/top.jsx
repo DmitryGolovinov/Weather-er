@@ -47,7 +47,7 @@ export default class TopSection extends React.Component {
         const { isSelectLocationToggled } = this.state;
 
         return <div className='top-container'>
-            <div className="title">R-Weather</div>
+            <div className="title">Weather-er</div>
             <Weather {...this.props}/>
             <Manager>
                 <Reference>
