@@ -1,0 +1,21 @@
+.bottom-container {
+    background: url('../../resources/background-bottom.png') no-repeat center;
+    background-color: #5d85c5;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    flex-direction: row;
+}
+
+.forcast-day {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
