@@ -13,6 +13,6 @@ A react-built application. You can check out the weather forecast for a couple o
  - Add a fahrenheit scale in addition.
  - Add a choice to select how many days should be forecasted
 
-<img src='./screenshot.png' />
+<img src='./Screenshot.png' width='300px'/>
 
 API: https://www.apixu.com/
