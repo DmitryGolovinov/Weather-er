@@ -8,11 +8,6 @@ A react-built application. You can check out the weather forecast for a couple o
 - A weather up to 10 days ahead (according to the API). Currently there are 4 days availiable but the expansion is only a matter of design capabilities.
 - A brief information about precipitation on each day
 
-## To-do list:
- - Get rid of some problems which can take place due to particular situations
- - Add a fahrenheit scale in addition.
- - Add a choice to select how many days should be forecasted
-
 <img src='./Screenshot.png' width='300px'/>
 
 API: https://www.apixu.com/
